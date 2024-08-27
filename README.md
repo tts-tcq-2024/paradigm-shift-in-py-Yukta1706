@@ -53,7 +53,9 @@ Can we add new functionality without disturbing the old?
 
 Shorten the Semantic distance
 
-Extension 1: Early Warning
+## Extension 1:
+
+Early Warning
 
 Customers need early warnings to take action, in addition to the alarm that you print after the limit is breached. Introduce a 'warning' level with a tolerance of 5% of the upper-limit.
 
